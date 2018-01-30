@@ -14,10 +14,6 @@ description: Archiving challenge solves from CTFs
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
 
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
-#title-img: "/img/avatar-icon.png"
-
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
@@ -32,13 +28,6 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
-# Alternatively, the navbar, footer, and page background can be set to use background images
-# instead of colour
-
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
-
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -51,24 +40,9 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  #email: "someone@example.com"
-  #facebook: daattali
   github: OpenToAllCTF
   twitter: OpenToAllCTF
   reddit: OpenToAllCTFteam
-#  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -77,33 +51,9 @@ share-links-active:
   google: false
   linkedin: false
 
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
-
-# --- Web Statistics Section --- #
-
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
-
-# Google Tag Manager ID
-#gtm: ""
-
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
-
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
-
-# Facebook App ID
-# fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
