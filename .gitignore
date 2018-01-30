@@ -1,0 +1,10 @@
+Gemfile
+Gemfile.lock
+_site
+Dockerfile
+.sass-cache
+.vagrant
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
