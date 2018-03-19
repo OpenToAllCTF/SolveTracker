@@ -1,0 +1,1 @@
+{"ctfname": "backdoor18", "challenges": [{"category": "pwn", "solve_date": 1521378262, "name": "arraylist", "solver": ["vakzz"]}, {"category": "pwn", "solve_date": 1521352992, "name": "bookkeep", "solver": ["vakzz"]}, {"category": "pwn", "solve_date": 1521323720, "name": "shelter", "solver": ["kileak"]}]}
