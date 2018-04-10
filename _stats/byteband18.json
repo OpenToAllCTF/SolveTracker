@@ -1,0 +1,1 @@
+{"ctfname": "byteband18", "challenges": [{"category": "pwn", "name": "gg", "solver": ["kileak"], "solve_date": 1523123111}, {"category": "web", "name": "r3m3mb3r", "solver": ["vakzz"], "solve_date": 1523174043}, {"category": "web", "name": "ellazo", "solver": ["paulrobin"], "solve_date": 1523173835}]}
