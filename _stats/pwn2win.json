@@ -1,0 +1,1 @@
+{"ctfname": "pwn2win", "challenges": [{"name": "g00d_b0y", "solver": ["UnblvR"], "solve_date": 1543692988, "category": "bonus"}, {"name": "super_storage", "solver": ["kileak"], "solve_date": 1543709290, "category": "pwn"}]}
