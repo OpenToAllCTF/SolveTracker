@@ -1,0 +1,1 @@
+{"ctfname": "ctf313", "challenges": [{"name": "niwom", "solver": ["towel"], "solve_date": 1558120867, "category": "forensics"}, {"name": "seeing", "solver": ["Freshnuts"], "solve_date": 1558037241, "category": "forensics"}, {"name": "tracks", "solver": ["towel"], "solve_date": 1558120278, "category": "crypto"}]}
