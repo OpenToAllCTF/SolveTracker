@@ -1,0 +1,1 @@
+{"ctfname": "bctf19", "challenges": [{"name": "echo", "solver": ["7feilee", "vakzz"], "solve_date": 1559374570, "category": "pwn"}, {"name": "lut", "solver": ["VoidMercy"], "solve_date": 1559332655, "category": "rev"}]}
