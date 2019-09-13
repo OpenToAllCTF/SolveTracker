@@ -1,0 +1,1 @@
+{"ctfname": "defcamp19", "challenges": [{"name": "get-access", "solver": ["farazsth98"], "solve_date": 1567855929, "category": "pwn"}, {"name": "pwn_secret", "solver": ["farazsth98"], "solve_date": 1567859147, "category": "pwn"}]}
