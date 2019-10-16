@@ -1,0 +1,1 @@
+{"ctfname": "dragon19", "challenges": [{"name": "babypdf", "solver": ["tbnz"], "solve_date": 1569069393, "category": "misc"}, {"name": "rms", "solver": ["_(0.0)_abcd"], "solve_date": 1569072071, "category": "web/pwn"}, {"name": "rms-fixed", "solver": ["_(0.0)_"], "solve_date": 1569121441, "category": "pwn"}]}
