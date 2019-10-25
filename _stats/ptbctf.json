@@ -1,0 +1,1 @@
+{"ctfname": "ptbctf", "challenges": [{"name": "babyfactory", "solver": ["Keenan", "L00P3R"], "solve_date": 1569678514, "category": "memory"}, {"name": "passthehash", "solver": ["mementomori", "UnblvR"], "solve_date": 1569692812, "category": "warmup"}, {"name": "ttm", "solver": ["chq-matteo"], "solve_date": 1569660569, "category": "warmup"}]}
