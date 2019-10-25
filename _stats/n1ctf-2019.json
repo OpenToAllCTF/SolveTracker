@@ -1,0 +1,1 @@
+{"ctfname": "n1ctf-2019", "challenges": [{"name": "babyrsa", "solver": ["mementomori"], "solve_date": 1567779791, "category": "crypto"}, {"name": "checkin", "solver": ["farazsth98"], "solve_date": 1567773469, "category": "misc"}, {"name": "guess_ex", "solver": ["ndh", "UnblvR"], "solve_date": 1567788224, "category": "crypto"}]}
