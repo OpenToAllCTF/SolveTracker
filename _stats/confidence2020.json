@@ -1,0 +1,1 @@
+{"ctfname": "confidence2020", "challenges": [{"name": "gpio-tap", "solver": ["obito"], "solve_date": 1584203174, "category": "misc"}, {"name": "hidden-flag", "solver": ["stamparm"], "solve_date": 1584198716, "category": "misc"}]}
