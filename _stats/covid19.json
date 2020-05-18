@@ -1,0 +1,1 @@
+{"ctfname": "covid19", "challenges": [{"name": "web-recon-1", "solver": ["nob"], "solve_date": 1588346804, "category": "web"}, {"name": "derpy", "solver": ["Runixer"], "solve_date": 1588351281, "category": "web"}, {"name": "tiger_auction", "solver": ["stamparm"], "solve_date": 1588364111, "category": "web"}]}
