@@ -1,0 +1,1 @@
+{"ctfname": "pwn2win20", "challenges": [{"name": "transcendence", "solver": ["UnblvR"], "solve_date": 1590770308, "category": "bonus"}, {"name": "androids-enc", "solver": ["stamparm"], "solve_date": 1590783739, "category": "crypto"}, {"name": "payload", "solver": ["isopach"], "solve_date": 1590936959, "category": "web"}]}
