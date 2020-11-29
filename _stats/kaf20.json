@@ -1,0 +1,1 @@
+{"ctfname": "kaf20", "challenges": [{"name": "shadowstuck", "solver": ["Neolex", "Lord_Idiot"], "solve_date": 1604743557, "category": "pwn"}, {"name": "dweeder", "solver": ["Renwa", "Rose"], "solve_date": 1604748095, "category": "web"}, {"name": "kiposts", "solver": ["Renwa"], "solve_date": 1604764371, "category": "web"}]}
